@@ -21,7 +21,7 @@ export const Formulario = () => {
                     <option value="">Seleccione un Pais</option>
                     <option value="US"> Estados Unidos</option>
                     <option value="ES"> España</option>
-                    <option value="UK"> Reino Unido</option>/option>
+                    <option value="UK"> Reino Unido</option>
                     <option value="VE"> Venezuela</option>
                     <option value="FA"> Francia</option>
                     <option value="PO"> Portugal</option>
