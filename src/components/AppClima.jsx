@@ -1,7 +1,13 @@
 import React from 'react'
+import { Formulario } from './Formulario'
 
 export const AppClima = () => {
   return (
-    <div>AppClima</div>
+    <>
+        <main className='dos-columnas'>
+        <Formulario/>
+
+        </main>
+    </>
   )
 }
